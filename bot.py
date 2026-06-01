@@ -37,7 +37,7 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "seo content writer",
+    "Content Strategist",
     "content writer",
     "Medical Writer",
     "Healthcare Content Writer",
@@ -52,7 +52,7 @@ BLACKLIST_KEYWORDS = [
     "must be based in",
     "director",
     "us work authorization required",
-    "authorized to work in the united states"
+    "authorized to work in the united states",
     "security clearance",
 ]
 
